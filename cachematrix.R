@@ -14,7 +14,8 @@
 ## 
 ## Input: x - Matrix
 ## Output: list of functions:
-##   setMatrix   - sets the global matrix 
+##   setOMatrix  - sets the global matrix
+##   getOMatrix  - shows the global matrix 
 ##   getMatrix   - shows the cached matrix
 ##   getInverse  - shows cached inverse matrix
 ##   cacheMatrix - caches marix and inverse matrix
